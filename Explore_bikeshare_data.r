@@ -13,6 +13,7 @@ chi = read.csv('chicago.csv')
 
 # my functions
 
+# MENTOR HELP REQUESTED
 # make a fill column for a df w/ given column name, given column value
 my_fill_col <- function(df, col, x) {
 #    ny$City <- 'NY'
